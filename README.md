@@ -1,2 +1,3 @@
-# init
-## 初めてのGit
+# Git
+## firstgit
+* git init
